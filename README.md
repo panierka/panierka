@@ -1,5 +1,6 @@
 ### Overview :eye:
 - Interested in **webdev**, **data science** and much more
+- Full-stack
 - Hobbyist Game Developer
   - Long time **Unity** user
   - At the moment tinkering with **Godot**
