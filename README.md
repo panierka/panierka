@@ -2,7 +2,7 @@
 - Interested in **webdev**, **data science** and much more
 - Hobbyist Game Developer
   - Long time **Unity** user
-  - At the moment tinkering with **[Godot](https://github.com/godotengine/godot)**
+  - At the moment tinkering with **Godot**
   - Busy with creating universal combat miniframework - *TBA*
 - **C#** fan
 - Currently working on a little [SurrealDB application](https://github.com/panierka/ShopWebsite)
