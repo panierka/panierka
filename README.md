@@ -1,4 +1,5 @@
 ### Overview :eye:
+- Computer Science student (2020-2025)
 - Interested in **webdev**, **data science** and much more
 - Full-stack
 - Hobbyist Game Developer
