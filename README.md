@@ -9,5 +9,5 @@
 - **C#** fan
 - Currently working on:
   - handy [task management](https://github.com/panierka/ToDoList) app using Typescript/Angular, Java/Spring/Hibernate and PostgreSQL
-  - little [SurrealDB application](https://github.com/panierka/ShopWebsite) using Typescript/React, Python/FastAPI and SurrealDB
+  - little [shop-mockup application](https://github.com/panierka/ShopWebsite) using Typescript/React, Python/FastAPI and SurrealDB
 - Looking forward to learning **Rust** :crab:
