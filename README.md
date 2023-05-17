@@ -4,10 +4,10 @@
 - Full-stack
 - Hobbyist game developer
   - Long time **Unity** user
-  - At the moment tinkering with **Godot**
+  - At the moment I'm tinkering with **Godot**
   - Busy with creating universal combat miniframework - *TBA*
 - **C#** fan
 - Currently working on:
-  - handy [task management](https://github.com/panierka/ToDoList) app using Typescript/**Angular**, Java/**Spring**/**Hibernate** and PostgreSQL (solo)
-  - little [shop-mockup application](https://github.com/panierka/ShopWebsite) using Typescript/**React**, Python/**FastAPI** and SurrealDB (team of 3)
+  - Handy [task management](https://github.com/panierka/ToDoList) app using Typescript/**Angular**, Java/**Spring**/**Hibernate** and PostgreSQL (solo)
+  - Little [shop-mockup application](https://github.com/panierka/ShopWebsite) using Typescript/**React**, Python/**FastAPI** and SurrealDB (team of 3)
 - Looking forward to learning **Rust** :crab:
