@@ -7,7 +7,4 @@
   - At the moment I'm tinkering with **Godot**
   - Busy with creating universal combat miniframework - *TBA*
 - **C#** fan
-- Currently working on:
-  - Handy [task management](https://github.com/panierka/ToDoList) app using Typescript/**Angular**, Java/**Spring**/**Hibernate** and PostgreSQL (solo)
-  - Little [shop-mockup application](https://github.com/panierka/ShopWebsite) using Typescript/**React**, Python/**FastAPI** and SurrealDB (team of 3)
 - Looking forward to learning **Rust** :crab:
